@@ -1,0 +1,14 @@
+{{ $img := resources.GetMatch (printf "*%s*" (.Get 0)) }}
+{{ $caption := .Get 1 }}
+
+<figure>
+	<img src="{{ $img.RelPermalink }}" style="border: 2px solid gray; border-radius: 5px;"
+	{{ with .Get 2 }} 
+	 	width="{{.}}"
+ 	{{ end }} 
+	>
+  <figcaption>
+	  {{ $caption }}
+  </figcaption>
+</figure>
+  
