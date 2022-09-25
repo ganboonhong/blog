@@ -6,9 +6,11 @@ tags:
     - auth
     - ssh
 description: Why SSH PasswordAuthentication option doesn't work
+
+thumbnail: "/images/ssh-password-auth.webp"
 ---
 
-![](../../images/ssh-password-auth.webp)
+![](/images/ssh-password-auth.webp)
 
 After reading the SSH manual,  I enabled the PasswordAuthentication in the **/etc/ssh/ssh_config** on my server.
 
