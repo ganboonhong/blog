@@ -12,7 +12,7 @@ tags:
 
 The purpose of interface is to enable unrelated objects to communicate with each other. In order to communicate, both sides must follow a protocol. Like Lego, in order to put 2 pieces of brick together, you need to make sure they can "communicate" with each other. The bottom one's studs will fit the one on top's tubes. The designers (programmers) define the interfaces to let two bricks (objects) to communicate.
 
-Interface in Go works slightly different from other languages. The way your type implements the interface is implicit. As long as your type implement the same methods that declared in the interface. For example, let's define a `Washer` interface and it has 2 methods: `GetCleaner()` and `GetWaterVolume()`.
+Interface in Go works slightly different from other languages. The way your type implements the interface is implicit. As long as your type implements the same methods that declared in the interface. For example, let's define a `Washer` interface and it has 2 methods: `GetCleaner()` and `GetWaterVolume()`.
 
 ```golang
 package main
@@ -79,4 +79,4 @@ Now both `StartWashing` and `StopWashing` accept Washer interface as parameter. 
 
  
 
-In Go, You may also take the advandage of empty interface in your function paramter. An empty interface as paramter means you can pass in any type of data. But make sure you use it appropriately. For example fmt package's Println function takes an empty interface as parameter, which means it can print out any data type. By receiving empty interface in incorrect circumstances might also cause unexpected bug.
+In Go, You may also take the advandage of empty interface in your function paramter. An empty interface as paramter means you can pass in any type of data. But make sure you use it appropriately. For example `fmt` package's `Println` function takes an empty interface as parameter, which means it can print out any data type. By receiving empty interface in incorrect circumstances might also cause unexpected bug.
