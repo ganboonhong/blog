@@ -1,7 +1,7 @@
 ---
 title: "GitHub PR mergeability"
 description: "git-worktree can be very helpful when you want to work on another branch and leave current branch untouched"
-summary: "Have you ever been in a situation that, you're halfway to complete a feature and interrupted by an urgent ticket? You've modified tons of files and you need to put the modified files somewhere so that you can start working on the urgent ticket." # For the post in lists.
+summary: "Prevent PR that falied tests from accidentally merging into main branch by creating a Branch Protection Rule" # For the post in lists.
 date: "2020-03-26"
 author: "Ben"
 thumbnail: "/images/github/pr-merge-not-block.png"

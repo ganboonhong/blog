@@ -1,29 +1,25 @@
 +++
 author = "Hugo Authors"
-title = "Guia de Sintaxe Markdown"
+title = "Markdown Syntax Guide"
 date = "2019-03-11"
-description = "Um artigo simples para demonstrar a sintaxe básica de Markdown e como formatar elementos HTML."
+draft = true
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 featured = true
 tags = [
     "markdown",
     "css",
     "html",
-    "temas",
-    "destacado"
+    "themes",
+    "featured"
 ]
 categories = [
-    "temas",
-    "sintaxe",
+    "themes",
+    "syntax",
 ]
-series = ["Guia de Temas"]
-aliases = ["migrar-de-jekyl"]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
 thumbnail = "images/building.png"
 +++
-
-**Este artigo oferece um exemplo básico de uma tradução em Português. O restante conteúdo não foi traduzido.**
-
-Artigo original: {{< ref "markdown-syntax" >}}
-
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->

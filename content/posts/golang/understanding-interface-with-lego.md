@@ -1,5 +1,5 @@
 ---
-title: "Understanding Interface With Lego"
+title: "Understanding Go Interface With Lego"
 date: 2022-09-25T14:02:55+08:00
 thumbnail: "/images/golang/lego.webp"
 

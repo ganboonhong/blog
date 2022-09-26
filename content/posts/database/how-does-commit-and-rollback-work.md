@@ -11,8 +11,6 @@ tags:
 
 ![](/images/database/db-transaction.webp)
 
-# How Does Commit and Rollback Work
-
 The traditional rollback journal works by writing a copy of the original unchanged database content into a separate rollback journal file and then writing changes directly into the database file.
 
 In the event of a crash or rollback, the original content contained in the rollback journal is played back into the database file to revert the database file to its original state. The commit occurs when the rollback journal is deleted.
