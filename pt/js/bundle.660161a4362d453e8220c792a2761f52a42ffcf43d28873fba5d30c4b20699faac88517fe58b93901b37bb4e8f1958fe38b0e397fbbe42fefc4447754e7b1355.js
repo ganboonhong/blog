@@ -8,7 +8,7 @@ const scaleImageClass = 'image-scale';
 const pageHasLoaded = 'DOMContentLoaded';
 const imageAltClass = 'img_alt'
 
-const baseURL = 'https://ganboonhong.github.io/refs';
+const baseURL = 'https://ganboonhong.github.io/refs/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
