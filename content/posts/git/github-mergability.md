@@ -4,7 +4,7 @@ description: "git-worktree can be very helpful when you want to work on another 
 summary: "Prevent PR that falied tests from accidentally merging into main branch by creating a Branch Protection Rule" # For the post in lists.
 date: "2020-03-26"
 author: "Ben"
-thumbnail: "/images/github/pr-merge-not-block.png"
+thumbnail: "/refs/images/github/pr-merge-not-block.png"
 
 tags:
     - git

@@ -1,13 +1,13 @@
 ---
 title: "SQLite Temporary Files"
 date: 2018-01-07T21:36:22+08:00
-thumbnail: "/images/sqlite/temp-toilet.webp"
+thumbnail: "/refs/images/sqlite/temp-toilet.webp"
 
 tags:
     - sqlite
 ---
 
-![](/images/sqlite/temp-toilet.webp)
+{{< imgborder "images/sqlite/temp-toilet.webp">}}
 
 I guess the name SQLite means it's a (relatively) light weight database.
 
