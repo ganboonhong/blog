@@ -5,9 +5,9 @@ date: 2020-04-05
 tags:
     - auth
     - ssh
-description: Why SSH PasswordAuthentication option doesn't work
+description: Why SSH PasswordAuthentication option does not work
 
-thumbnail: "/images/ssh-password-auth.webp"
+thumbnail: "/images/ssh/ssh-password-auth.webp"
 ---
 
 ![](/images/ssh-password-auth.webp)
