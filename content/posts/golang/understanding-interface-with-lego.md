@@ -1,7 +1,7 @@
 ---
 title: "Understanding Go Interface With Lego"
 date: 2022-09-25T14:02:55+08:00
-thumbnail: "/refs/images/golang/lego.webp"
+thumbnail: "/blog/images/golang/lego.webp"
 
 tags:
     - golang

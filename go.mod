@@ -1,4 +1,4 @@
-module gihub.com/ganboonhong/refs
+module gihub.com/ganboonhong/blog
 
 go 1.16
 

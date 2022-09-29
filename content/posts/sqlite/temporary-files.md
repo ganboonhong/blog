@@ -1,7 +1,7 @@
 ---
 title: "SQLite Temporary Files"
 date: 2018-01-07T21:36:22+08:00
-thumbnail: "/refs/images/sqlite/temp-toilet.webp"
+thumbnail: "/blog/images/sqlite/temp-toilet.webp"
 
 tags:
     - sqlite

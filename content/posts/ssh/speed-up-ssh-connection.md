@@ -7,7 +7,7 @@ tags:
   - ssh
 description: Speed Up SSH Connection
 summary: When you need to work on remote environment, chances are high that you need to establish an SSH connection. Slow connection speed can be annoying especially you need to do it very often.
-thumbnail: "/refs/images/ssh/speed-up-ssh-connection.png"
+thumbnail: "/blog/images/ssh/speed-up-ssh-connection.png"
 ---
 
 **Problem**
