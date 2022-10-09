@@ -1,7 +1,7 @@
 ---
 title: "GitHub PR mergeability"
-description: "git-worktree can be very helpful when you want to work on another branch and leave current branch untouched"
-summary: "Prevent PR that falied tests from accidentally merging into main branch by creating a Branch Protection Rule" # For the post in lists.
+description: "Most of the time, we want to block pull requests that don't pass status checks from merging into master branch. GitHub provides a great feature called **Branch protection rule** to achieve this goal"
+summary: "Prevent PR from accidentally merging into main branch by creating a Branch Protection Rule" # For the post in lists.
 date: "2020-03-26"
 author: "Ben"
 thumbnail: "/blog/images/github/pr-merge-not-block.png"

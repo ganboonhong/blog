@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>database on Clarity</title>
+    <link>https://ganboonhong.github.io/blog/tags/database/</link>
+    <description>Recent content in database on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 07 Jan 2018 14:02:55 +0800</lastBuildDate><atom:link href="https://ganboonhong.github.io/blog/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Does Commit and Rollback Work</title>
+      <link>https://ganboonhong.github.io/blog/posts/database/how-does-commit-and-rollback-work/</link>
+      <pubDate>Sun, 07 Jan 2018 14:02:55 +0800</pubDate>
+      
+      <guid>https://ganboonhong.github.io/blog/posts/database/how-does-commit-and-rollback-work/</guid>
+      <description>The traditional rollback journal works by writing a copy of the original unchanged database content into a separate rollback journal file and then writing changes directly into the database file. In the event of a crash or rollback, ...</description>
+    </item>
+    
+  </channel>
+</rss>

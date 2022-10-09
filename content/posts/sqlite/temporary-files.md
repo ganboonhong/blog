@@ -1,5 +1,6 @@
 ---
 title: "SQLite Temporary Files"
+description: "SQLite Temporary Files"
 date: 2018-01-07T21:36:22+08:00
 thumbnail: "/blog/images/sqlite/temp-toilet.webp"
 

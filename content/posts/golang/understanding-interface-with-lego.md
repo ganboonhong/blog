@@ -1,5 +1,6 @@
 ---
 title: "Understanding Go Interface With Lego"
+description: "The purpose of interface is to enable unrelated objects to communicate with each other. In order to communicate, both sides must follow a protocol. Like Lego, in order to put 2 pieces of brick together, you need to make sure they can communicate with each other. The bottom one's studs will fit the one on top's tubes. The designers (programmers) define the interfaces to let two bricks (objects) to communicate."
 date: 2022-09-25T14:02:55+08:00
 thumbnail: "/blog/images/golang/lego.webp"
 
